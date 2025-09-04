@@ -1,0 +1,12 @@
+﻿Audio File,WER,Precision,Recall,F1-Score,Total Errors,Substitutions,Insertions,Deletions,Ref Words,Hyp Words,Common Words
+Script_10_with_effects.wav,5.91%,93.10%,95.74%,94.41%,11,6,5,0,186,191,135
+Script_11_with_effects.wav,4.56%,94.51%,97.48%,95.98%,11,5,6,0,241,247,155
+Script_12_with_effects.wav,4.55%,95.57%,97.42%,96.49%,10,5,5,0,220,225,151
+Script_1_with_effects.wav,2.75%,96.86%,97.47%,97.16%,6,4,2,0,218,220,154
+Script_2_with_effects.wav,4.02%,98.40%,98.40%,98.40%,7,3,1,3,174,172,123
+Script_4_with_effects.wav,6.74%,96.67%,95.08%,95.87%,12,4,1,7,178,172,116
+Script_5_with_effects.wav,3.54%,99.21%,98.44%,98.82%,7,2,0,5,198,193,126
+Script_6_with_effects.wav,4.23%,98.51%,97.78%,98.14%,9,3,0,6,213,207,132
+Script_7_with_effects.wav,5.66%,97.89%,95.86%,96.86%,12,4,1,7,212,206,139
+Script_8_with_effects.wav,2.87%,97.11%,97.11%,97.11%,7,5,1,1,244,244,168
+Script_9_with_effects.wav,4.10%,96.00%,97.96%,96.97%,8,4,4,0,195,199,144

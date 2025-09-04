@@ -1,0 +1,48 @@
+File: Script_12_with_effects.wav
+WER: 4.55%
+Total Errors: 10
+
+Original Ground Truth:
+Doctor: Good morning. Let's discuss the lower urinary tract symptoms, or LUTS, you've reported.
+
+Patient: Yes, they've become quite pronounced. I'm experiencing significant nocturia, three to four times a night. I also have urinary hesitancy, a weak stream, and a post-void sensation of incomplete bladder emptying.
+
+Doctor: I understand. Those are classic obstructive and irritative voiding symptoms. The digital rectal exam revealed a symmetrically enlarged, firm, non-nodular prostate gland, a finding highly suggestive of Benign Prostatic Hyperplasia, or BPH.
+
+Patient: So this isn't prostate cancer?
+
+Doctor: The DRE findings are not suspicious for malignancy. However, for a complete evaluation, I am ordering a serum Prostate-Specific Antigen (PSA) test. To manage your symptoms, we will start an alpha-1 adrenergic blocker, specifically Tamsulosin. This will relax the smooth muscle of the bladder neck and prostatic urethra, improving urinary flow dynamics.
+
+Patient: What if that isn't enough?
+
+Doctor: If symptoms persist, we could add a 5-alpha-reductase inhibitor like Finasteride or Dutasteride, which can reduce the actual volume of the prostate over time. I'm also going to get a post-void residual volume via bladder scan today to quantify your bladder emptying. I'd like you to reduce your fluid intake, particularly caffeine and alcohol, after 6 PM. We will follow up in six weeks to assess your response via the AUA Symptom Score and to review your PSA results.
+
+Patient: Understood. Thank you, doctor.
+
+Normalized Ground Truth:
+good morning lets discuss the lower urinary tract symptoms or luts youve reported yes theyve become quite pronounced im experiencing significant nocturia three to four times a night i also have urinary hesitancy a weak stream and a postvoid sensation of incomplete bladder emptying i understand those are classic obstructive and irritative voiding symptoms the digital rectal exam revealed a symmetrically enlarged firm nonnodular prostate gland a finding highly suggestive of benign prostatic hyperplasia or bph so this isnt prostate cancer the dre findings are not suspicious for malignancy however for a complete evaluation i am ordering a serum prostatespecific antigen test to manage your symptoms we will start an alpha1 adrenergic blocker specifically tamsulosin this will relax the smooth muscle of the bladder neck and prostatic urethra improving urinary flow dynamics what if that isnt enough if symptoms persist we could add a 5alphareductase inhibitor like finasteride or dutasteride which can reduce the actual volume of the prostate over time im also going to get a postvoid residual volume via bladder scan today to quantify your bladder emptying id like you to reduce your fluid intake particularly caffeine and alcohol after 6 pm we will follow up in six weeks to assess your response via the aua symptom score and to review your psa results understood thank you doctor
+
+Raw Transcription:
+Doctor: Good morning. Let's discuss the lower urinary tract symptoms or LUTS you've reported.
+Patient: Yes, they've become quite pronounced. I'm experiencing significant nocturia, three to four times a night. I also have urinary hesitancy, a weak stream, and a post void sensation of incomplete bladder emptying.
+Doctor: I understand. Those are classic obstructive and irritative voiding symptoms. The digital rectal exam revealed a symmetrically enlarged, firm, non-nodular prostate gland, a finding highly suggestive of benign prostatic hyperplasia or BPH.
+Patient: So this isn't prostate cancer?
+Doctor: The DRE findings are not suspicious for malignancy. However, for a complete evaluation, I am ordering a serum prostate specific antigen test. To manage your symptoms, we will start an alpha-1 adrenergic blocker, specifically Tamsulosin. This will relax the smooth muscle of the bladder neck and prostatic urethra, improving urinary flow dynamics.
+Patient: What if that isn't enough?
+Doctor: If symptoms persist, we could add a five alpha reductase inhibitor like finasteride or dutasteride, which can reduce the actual volume of the prostate over time. I'm also going to get a post void residual volume via bladder scan today to quantify your bladder emptying. I'd like you to reduce your fluid intake, particularly caffeine and alcohol after 6:00 p.m. We will follow up in six weeks to assess your response via the AUA symptom score and to review your PSA results.
+Patient: Understood. Thank you, Doctor.
+
+Normalized Transcription:
+good morning lets discuss the lower urinary tract symptoms or luts youve reported yes theyve become quite pronounced im experiencing significant nocturia three to four times a night i also have urinary hesitancy a weak stream and a post void sensation of incomplete bladder emptying i understand those are classic obstructive and irritative voiding symptoms the digital rectal exam revealed a symmetrically enlarged firm nonnodular prostate gland a finding highly suggestive of benign prostatic hyperplasia or bph so this isnt prostate cancer the dre findings are not suspicious for malignancy however for a complete evaluation i am ordering a serum prostate specific antigen test to manage your symptoms we will start an alpha1 adrenergic blocker specifically tamsulosin this will relax the smooth muscle of the bladder neck and prostatic urethra improving urinary flow dynamics what if that isnt enough if symptoms persist we could add a five alpha reductase inhibitor like finasteride or dutasteride which can reduce the actual volume of the prostate over time im also going to get a post void residual volume via bladder scan today to quantify your bladder emptying id like you to reduce your fluid intake particularly caffeine and alcohol after 600 pm we will follow up in six weeks to assess your response via the aua symptom score and to review your psa results understood thank you doctor
+
+Detailed Errors:
+1. Insertion: '---' -> 'post'
+2. Substitution: 'postvoid' -> 'void'
+3. Insertion: '---' -> 'prostate'
+4. Substitution: 'prostatespecific' -> 'specific'
+5. Insertion: '---' -> 'five'
+6. Insertion: '---' -> 'alpha'
+7. Substitution: '5alphareductase' -> 'reductase'
+8. Insertion: '---' -> 'post'
+9. Substitution: 'postvoid' -> 'void'
+10. Substitution: '6' -> '600'

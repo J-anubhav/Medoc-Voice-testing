@@ -1,0 +1,6 @@
+Doctor: Hello, tell me what's been happening with Leo.
+Patient: It's been very stressful. He had a sustained high grade fever for three days, peaking around 103.5 degrees Fahrenheit. We were using anti-pyretics. This morning, the fever completely resolved, but he developed this diffuse pink spotty rash across his entire trunk and back.
+Doctor: Let me examine him. Yes, the clinical presentation is classic. The sequence of high fever followed by abrupt defervescence, and the subsequent appearance of a non-pruritic maculopapular rash is the hallmark of Roseola infantum, also known as exanthem subitum. It's caused by human herpes virus six.
+Patient: Thank goodness. I was worried about measles or something worse. Does he require an antibiotic?
+Doctor: No, this is a viral exanthem and his immune system has already controlled the viremia. The rash is a post-viral manifestation and will resolve spontaneously within 48 hours. Unlike Rubiola, there's no coryza, cough, or Koplik spots. Management is purely supportive. Ensure adequate hydration and use paracetamol or ibuprofen as needed for any residual irritability. No follow up is indicated unless he develops red flag symptoms like lethargy or febrile seizures.
+Patient: That is an immense relief. Thank you, Doctor.

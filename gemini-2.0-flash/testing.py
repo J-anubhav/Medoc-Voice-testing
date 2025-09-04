@@ -184,7 +184,7 @@ def transcribe_audio_only(audio_path):
         audio_file = genai.upload_file(path=audio_path)
         
         print(f"INFO: Transcribing '{os.path.basename(audio_path)}'...")
-        model = genai.GenerativeModel('models/gemini-2.5-flash-lite')
+        model = genai.GenerativeModel('models/gemini-2.0-flash')
         prompt = """
         #*IF a single speaker- Doctor dictation, transcribe as-is*.
         You are a specialized audio-to-text converter for doctor-patient conversations. Your task is to transcribe noisy phone audio recordings into clean, diarized text output with maximum speaker identification accuracy.
