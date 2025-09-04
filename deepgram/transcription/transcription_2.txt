@@ -1,0 +1,6 @@
+Doctor: good afternoon let's review your blood pressure log since you started the lisinopril how have you been feeling overall
+Patient: much better thank you my readings at home have been consistently around 130 over 85 i do feel a bit lightheaded sometimes when i stand up too quickly though
+Doctor: that can be a common side effect of an ace inhibitor as your body adjusts your log looks excellent the lisinopril is effective we'll maintain the current dosage i want to continue emphasizing the importance of the dash diet low sodium is key are you managing at least 30 aerobic exercise most days
+Patient: i've been walking every morning and i'm really watching my salt intake it's been a big change
+Doctor: that's the best way to support the medication continue monitoring your pressure at home let's do a follow-up in three months at that time we'll also draw a basic metabolic panel to check your kidney function and electrolytes which is standard procedure with this medication
+Patient: sounds like a plan thank you doctor

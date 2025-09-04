@@ -1,0 +1,8 @@
+Doctor: good morning let's discuss the lower urinary tract symptoms or luts you've reported
+Patient: yes they've become quite pronounced i'm experiencing significant nocturia three to four times a night i also have urinary hesitancy a a weak stream and a post void sensation of incomplete bladder emptying
+Doctor: i understand those are classic obstructive and irritative voiding symptoms the digital rectal exam revealed a symmetrically enlarged firm non nodular prostate gland a finding highly suggestive of benign prostatic hyperplasia or bph
+Patient: so this isn't prostate cancer
+Doctor: the dre findings are not suspicious for malignancy however a complete evaluation i am ordering a serum prostate specific antigen test to manage your symptoms we will start an alpha-one adrenergic blocker specifically tamsulosin this will relax the smooth muscle of the bladder neck and prostatic urethra improving urinary flow dynamics
+Patient: what if that isn't enough
+Doctor: if symptoms persist we could add a five alpha reductase inhibitor like finasteride or dutasteride which can reduce the actual volume of the prostate over time i'm also going to get a post void residual volume via bladder scan today to quantify your bladder emptying i'd like you to reduce your fluid intake particularly caffeine and alcohol after 6pm we will follow-up in six weeks to assess your response via the aua symptom score and to review your psa results
+Patient: understood thank you doctor

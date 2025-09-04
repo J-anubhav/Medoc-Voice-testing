@@ -1,0 +1,7 @@
+Doctor: please describe the ocular irritation you've been experiencing
+Patient: my eyes have a persistent foreign body sensation towards the end of the day they feel gritty and burn especially during sustained reading or computer use and my vision gets blurry until i blink several times
+Doctor: your symptomology is pathognomic for keratoconjunctivitis sicca or dry eye syndrome it's often exacerbated by reduced blink rates during tasks requiring high visual concentration this leads to tear film instability ocular surface inflammation and hyperosmolarity
+Patient: that sounds complex what's the treatment
+Doctor: initially we will start with aggressive ocular lubrication i want you to use preservative free artificial tears specifically a lipid based formulation like sustain complete or refresh optive mega three at least four to six times daily to address potential meibomian gland dysfunction also rigorously adhere to the twenty twenty twenty rule to mitigate computer vision syndrome
+Patient: lipid based tears and the twentytwentytwenty rule got
+Doctor: correct if your symptoms are refractory to these conservative measures after a month we will proceed with further diagnostics at that point we can escalate to prescription immunomodulatory agents like cyclosporine ophthalmic emulsion or lithotegrast ophthalmic solution to increase endogenous tear production

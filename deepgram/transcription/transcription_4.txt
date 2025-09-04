@@ -1,0 +1,7 @@
+Doctor: hello please have a seat tell me about this rash you're concerned about
+Patient: hi it just appeared on my arms a few days ago it's very red and incredibly itchy especially at night it seems to be getting worse
+Doctor: i see let me have a look it appears to be a classic case of contact dermatitis have you used any new soaps lotions or laundry detergents recently or perhaps been gardening
+Patient: you know i did switch to a new brand of laundry detergent last week i didn't even think of that
+Doctor: that's very likely the culprit this is an allergic reaction to something your skin touched i recommend you stop using that detergent for the rash itself an over the counter one percent hydrocortisone cream applied twice a day should clear it up try to use only hypoallergenic products for a while
+Patient: okay that's a relief i'll get some of that cream today
+Doctor: good if the rash doesn't start improving within a week or if it spreads please give my office a call

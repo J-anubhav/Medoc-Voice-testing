@@ -1,0 +1,46 @@
+File: Script_10_with_effects.wav
+WER: 7.53%
+Total Errors: 14
+
+Original Ground Truth:
+Doctor: Hello. Tell me what's been happening with Leo.
+
+Patient: It's been very stressful. He had a sustained high-grade fever for three days, peaking around 103.5°F. We were using antipyretics. This morning, the fever completely resolved, but he developed this diffuse, pink, spotty rash across his entire trunk and back.
+
+Doctor: Let me examine him. Yes, the clinical presentation is classic. The sequence of high fever followed by abrupt defervescence and the subsequent appearance of a non-pruritic, maculopapular rash is the hallmark of Roseola Infantum, also known as Exanthem Subitum. It's caused by Human Herpesvirus 6.
+
+Patient: Thank goodness. I was worried about measles or something worse. Does he require an antibiotic?
+
+Doctor: No, this is a viral exanthem, and his immune system has already controlled the viremia. The rash is a post-viral manifestation and will resolve spontaneously within 48 hours. Unlike Rubeola, there's no coryza, cough, or Koplik spots. Management is purely supportive: ensure adequate hydration and use paracetamol or ibuprofen as needed for any residual irritability. No follow-up is indicated unless he develops red flag symptoms like lethargy or febrile seizures.
+
+Patient: That is an immense relief. Thank you, doctor.
+
+Normalized Ground Truth:
+hello tell me whats been happening with leo its been very stressful he had a sustained highgrade fever for three days peaking around 1035degreef we were using antipyretics this morning the fever completely resolved but he developed this diffuse pink spotty rash across his entire trunk and back let me examine him yes the clinical presentation is classic the sequence of high fever followed by abrupt defervescence and the subsequent appearance of a nonpruritic maculopapular rash is the hallmark of roseola infantum also known as exanthem subitum its caused by human herpesvirus 6 thank goodness i was worried about measles or something worse does he require an antibiotic no this is a viral exanthem and his immune system has already controlled the viremia the rash is a postviral manifestation and will resolve spontaneously within 48 hours unlike rubeola theres no coryza cough or koplik spots management is purely supportive ensure adequate hydration and use paracetamol or ibuprofen as needed for any residual irritability no followup is indicated unless he develops red flag symptoms like lethargy or febrile seizures that is an immense relief thank you doctor
+
+Raw Transcription:
+Doctor: hello tell me what's been happening with leo
+Patient: it's been very stressful he had a sustained high grade fever for three days peaking around 103.5 degrees fahrenheit we were using antipyretics this morning the fever completely resolved but he developed this diffuse pink spotty rash across his entire trunk and back
+Doctor: let me examine him yes the clinical presentation is classic the sequence of high fever followed by abrupt defervescence and the subsequent appearance of a nonpruritic maculopopular rash is the hallmark of rosalia infantum also known as exanthem sebetum it's caused by human herpesvirus six
+Patient: thank goodness i was worried about measles or something worse does he require an antibiotic
+Doctor: no this is a viral exanthem and his immune system has already controlled the viremia the rash is a post viral manifestation and will resolve spontaneously within forty eight hours unlike rubiola there's no coryza cough or koplik spots management is purely supportive ensure adequate hydration and use paracetamol or ibuprofen as needed for any residual irritability no follow-up is indicated unless he develops red flag symptoms like lethargy or febrile seizures
+Patient: that is an immense relief thank you doctor
+
+Normalized Transcription:
+hello tell me whats been happening with leo its been very stressful he had a sustained high grade fever for three days peaking around 1035 degree f we were using antipyretics this morning the fever completely resolved but he developed this diffuse pink spotty rash across his entire trunk and back let me examine him yes the clinical presentation is classic the sequence of high fever followed by abrupt defervescence and the subsequent appearance of a nonpruritic maculopopular rash is the hallmark of rosalia infantum also known as exanthem sebetum its caused by human herpesvirus six thank goodness i was worried about measles or something worse does he require an antibiotic no this is a viral exanthem and his immune system has already controlled the viremia the rash is a post viral manifestation and will resolve spontaneously within forty eight hours unlike rubiola theres no coryza cough or koplik spots management is purely supportive ensure adequate hydration and use paracetamol or ibuprofen as needed for any residual irritability no followup is indicated unless he develops red flag symptoms like lethargy or febrile seizures that is an immense relief thank you doctor
+
+Detailed Errors:
+1. Insertion: '---' -> 'high'
+2. Substitution: 'highgrade' -> 'grade'
+3. Insertion: '---' -> '1035'
+4. Insertion: '---' -> 'degree'
+5. Substitution: '1035degreef' -> 'f'
+6. Substitution: 'maculopapular' -> 'maculopopular'
+7. Substitution: 'roseola' -> 'rosalia'
+8. Substitution: 'subitum' -> 'sebetum'
+9. Substitution: '6' -> 'six'
+10. Insertion: '---' -> 'post'
+11. Substitution: 'postviral' -> 'viral'
+12. Insertion: '---' -> 'forty'
+13. Substitution: '48' -> 'eight'
+14. Substitution: 'rubeola' -> 'rubiola'

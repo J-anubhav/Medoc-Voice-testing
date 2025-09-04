@@ -1,0 +1,64 @@
+File: Script_9_with_effects.wav
+WER: 14.87%
+Total Errors: 29
+
+Original Ground Truth:
+Doctor: Please describe the ocular irritation you've been experiencing.
+
+Patient: My eyes have a persistent foreign body sensation. Towards the end of the day, they feel gritty and burn, especially during sustained reading or computer use, and my vision gets blurry until I blink several times.
+
+Doctor: Your symptomology is pathognomonic for Keratoconjunctivitis Sicca, or Dry Eye Syndrome. It's often exacerbated by reduced blink rates during tasks requiring high visual concentration. This leads to tear film instability, ocular surface inflammation, and hyperosmolarity.
+
+Patient: That sounds complex. What's the treatment?
+
+Doctor: Initially, we will start with aggressive ocular lubrication. I want you to use preservative-free artificial tears—specifically a lipid-based formulation like Systane Complete or Refresh Optive Mega-3—at least four to six times daily to address potential meibomian gland dysfunction. Also, rigorously adhere to the 20-20-20 rule to mitigate computer vision syndrome.
+
+Patient: Lipid-based tears and the 20-20-20 rule. Got it.
+
+Doctor: Correct. If your symptoms are refractory to these conservative measures after a month, we will proceed with further diagnostics, possibly a Schirmer's test or tear film breakup time analysis. At that point, we can escalate to prescription immunomodulatory agents like Cyclosporine ophthalmic emulsion or Lifitegrast ophthalmic solution to increase endogenous tear production.
+
+Normalized Ground Truth:
+please describe the ocular irritation youve been experiencing my eyes have a persistent foreign body sensation towards the end of the day they feel gritty and burn especially during sustained reading or computer use and my vision gets blurry until i blink several times your symptomology is pathognomonic for keratoconjunctivitis sicca or dry eye syndrome its often exacerbated by reduced blink rates during tasks requiring high visual concentration this leads to tear film instability ocular surface inflammation and hyperosmolarity that sounds complex whats the treatment initially we will start with aggressive ocular lubrication i want you to use preservativefree artificial tears—specifically a lipidbased formulation like systane complete or refresh optive mega3—at least four to six times daily to address potential meibomian gland dysfunction also rigorously adhere to the 202020 rule to mitigate computer vision syndrome lipidbased tears and the 202020 rule got it correct if your symptoms are refractory to these conservative measures after a month we will proceed with further diagnostics possibly a schirmers test or tear film breakup time analysis at that point we can escalate to prescription immunomodulatory agents like cyclosporine ophthalmic emulsion or lifitegrast ophthalmic solution to increase endogenous tear production
+
+Raw Transcription:
+Doctor: please describe the ocular irritation you've been experiencing
+Patient: my eyes have a persistent foreign body sensation towards the end of the day they feel gritty and burn especially during sustained reading or computer use and my vision gets blurry until i blink several times
+Doctor: your symptomology is pathognomic for keratoconjunctivitis sicca or dry eye syndrome it's often exacerbated by reduced blink rates during tasks requiring high visual concentration this leads to tear film instability ocular surface inflammation and hyperosmolarity
+Patient: that sounds complex what's the treatment
+Doctor: initially we will start with aggressive ocular lubrication i want you to use preservative free artificial tears specifically a lipid based formulation like sustain complete or refresh optive mega three at least four to six times daily to address potential meibomian gland dysfunction also rigorously adhere to the twenty twenty twenty rule to mitigate computer vision syndrome
+Patient: lipid based tears and the twentytwentytwenty rule got
+Doctor: correct if your symptoms are refractory to these conservative measures after a month we will proceed with further diagnostics at that point we can escalate to prescription immunomodulatory agents like cyclosporine ophthalmic emulsion or lithotegrast ophthalmic solution to increase endogenous tear production
+
+Normalized Transcription:
+please describe the ocular irritation youve been experiencing my eyes have a persistent foreign body sensation towards the end of the day they feel gritty and burn especially during sustained reading or computer use and my vision gets blurry until i blink several times your symptomology is pathognomic for keratoconjunctivitis sicca or dry eye syndrome its often exacerbated by reduced blink rates during tasks requiring high visual concentration this leads to tear film instability ocular surface inflammation and hyperosmolarity that sounds complex whats the treatment initially we will start with aggressive ocular lubrication i want you to use preservative free artificial tears specifically a lipid based formulation like sustain complete or refresh optive mega three at least four to six times daily to address potential meibomian gland dysfunction also rigorously adhere to the twenty twenty twenty rule to mitigate computer vision syndrome lipid based tears and the twentytwentytwenty rule got correct if your symptoms are refractory to these conservative measures after a month we will proceed with further diagnostics at that point we can escalate to prescription immunomodulatory agents like cyclosporine ophthalmic emulsion or lithotegrast ophthalmic solution to increase endogenous tear production
+
+Detailed Errors:
+1. Substitution: 'pathognomonic' -> 'pathognomic'
+2. Insertion: '---' -> 'preservative'
+3. Substitution: 'preservativefree' -> 'free'
+4. Insertion: '---' -> 'tears'
+5. Substitution: 'tears—specifically' -> 'specifically'
+6. Insertion: '---' -> 'lipid'
+7. Substitution: 'lipidbased' -> 'based'
+8. Substitution: 'systane' -> 'sustain'
+9. Insertion: '---' -> 'mega'
+10. Insertion: '---' -> 'three'
+11. Substitution: 'mega3—at' -> 'at'
+12. Insertion: '---' -> 'twenty'
+13. Insertion: '---' -> 'twenty'
+14. Substitution: '202020' -> 'twenty'
+15. Insertion: '---' -> 'lipid'
+16. Substitution: 'lipidbased' -> 'based'
+17. Substitution: '202020' -> 'twentytwentytwenty'
+18. Deletion: 'it' -> '---'
+19. Deletion: 'possibly' -> '---'
+20. Deletion: 'a' -> '---'
+21. Deletion: 'schirmers' -> '---'
+22. Deletion: 'test' -> '---'
+23. Deletion: 'or' -> '---'
+24. Deletion: 'tear' -> '---'
+25. Deletion: 'film' -> '---'
+26. Deletion: 'breakup' -> '---'
+27. Deletion: 'time' -> '---'
+28. Deletion: 'analysis' -> '---'
+29. Substitution: 'lifitegrast' -> 'lithotegrast'

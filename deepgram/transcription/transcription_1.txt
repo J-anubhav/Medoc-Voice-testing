@@ -1,0 +1,8 @@
+Doctor: good morning please describe the symptomatology you've been experiencing
+Patient: thank you doctor for the past three days i've had this persistent nonproductive cough it's coupled with significant odynophagia a general feeling of asthenia and a mild frontal cephalalgia i've also had constant rhinorrhea and a raw pharyngeal discomfort
+Doctor: i see and what was the temporal progression was it an insidious onset or did the symptoms present more abruptly
+Patient: it was quite abrupt i felt perfectly fine one day and then woke up feeling like this the next
+Doctor: understood your presentation is consistent with a probable acute viral rhinosinusitis with possible tracheobronchitis we'll manage this symptomatically i'm advising pseudoephedrine hydrochloride which is a sympathomimetic decongestant along with dextromorphine hydrobromide to act as an antitussive
+Patient: okay that makes sense
+Doctor: for your recovery ensure you get ample bed rest and maintain high fluid intake with hypotonic solutions adhere to a brat diet and avoid potential irritants like capsaicin or excessive lipid consumption monitor your progress if the symptoms fail to resolve in the next seven to ten days or if you develop signs of a secondary bacterial infection like purulent discharge or a high grade fever you need to return at that point we may need to initiate a broad spectrum antibiotic regimen
+Patient: that's very clear all follow those instructions thank you doctor
