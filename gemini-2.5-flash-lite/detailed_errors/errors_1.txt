@@ -1,0 +1,42 @@
+File: Script_1_with_effects.wav
+WER: 1.83%
+Total Errors: 4
+
+Original Ground Truth:
+Doctor: Good morning. Please describe the symptomatology you've been experiencing.
+
+Patient: Thank you, doctor. For the past three days, I've had this persistent, non-productive cough. It’s coupled with significant odynophagia, a general feeling of asthenia, and a mild frontal cephalalgia. I've also had constant rhinorrhea and a raw pharyngeal discomfort.
+
+Doctor: I see. And what was the temporal progression? Was it an insidious onset or did the symptoms present more abruptly?
+
+Patient: It was quite abrupt. I felt perfectly fine one day and then woke up feeling like this the next.
+
+Doctor: Understood. Your presentation is consistent with a probable acute viral rhinosinusitis, with possible tracheobronchitis. We'll manage this symptomatically. I'm advising pseudoephedrine hydrochloride, which is a sympathomimetic decongestant, along with dextromethorphan hydrobromide to act as an antitussive.
+
+Patient: Okay, that makes sense.
+
+Doctor: For your recovery, ensure you get ample bed rest and maintain high fluid intake with hypotonic solutions. Adhere to a BRAT diet and avoid potential irritants like capsaicin or excessive lipid consumption. Monitor your progress. If the symptoms fail to resolve in the next 7 to 10 days, or if you develop signs of a secondary bacterial infection like purulent discharge or a high-grade fever, you need to return. At that point, we may need to initiate a broad-spectrum antibiotic regimen.
+
+Patient: That's very clear. I'll follow those instructions. Thank you, doctor.
+
+Normalized Ground Truth:
+good morning please describe the symptomatology youve been experiencing thank you doctor for the past three days ive had this persistent nonproductive cough it’s coupled with significant odynophagia a general feeling of asthenia and a mild frontal cephalalgia ive also had constant rhinorrhea and a raw pharyngeal discomfort i see and what was the temporal progression was it an insidious onset or did the symptoms present more abruptly it was quite abrupt i felt perfectly fine one day and then woke up feeling like this the next understood your presentation is consistent with a probable acute viral rhinosinusitis with possible tracheobronchitis well manage this symptomatically im advising pseudoephedrine hydrochloride which is a sympathomimetic decongestant along with dextromethorphan hydrobromide to act as an antitussive okay that makes sense for your recovery ensure you get ample bed rest and maintain high fluid intake with hypotonic solutions adhere to a brat diet and avoid potential irritants like capsaicin or excessive lipid consumption monitor your progress if the symptoms fail to resolve in the next 7 to 10 days or if you develop signs of a secondary bacterial infection like purulent discharge or a highgrade fever you need to return at that point we may need to initiate a broadspectrum antibiotic regimen thats very clear ill follow those instructions thank you doctor
+
+Raw Transcription:
+Doctor: Good morning. Please describe the symptomatology you've been experiencing.
+Patient: Thank you, Doctor. For the past three days, I've had this persistent non-productive cough. It's coupled with significant odynophagia, a general feeling of asthenia, and a mild frontal cephalalgia. I've also had constant rhinorrhea and a raw pharyngeal discomfort.
+Doctor: I see. And what was the temporal progression? Was it an insidious onset or did the symptoms present more abruptly?
+Patient: It was quite abrupt. I felt perfectly fine one day, and then woke up feeling like this the next.
+Doctor: Understood. Your presentation is consistent with a probable acute viral rhinosinusitis, with possible tracheobronchitis. We'll manage this symptomatically. I'm advising pseudoephedrine hydrochloride, which is a sympathomimetic decongestant, along with dextromethorphan hydrobromide to act as an antitussive.
+Patient: Okay, that makes sense.
+Doctor: For your recovery, ensure you get ample bed rest and maintain high fluid intake with hypotonic solutions. Adhere to a BRAT diet and avoid potential irritants like capsaicin or excessive lipid consumption. Monitor your progress. If the symptoms fail to resolve in the next seven to ten days, or if you develop signs of a secondary bacterial infection, like purulent discharge or high-grade fever, you need to return. At that point, we may need to initiate a broad-spectrum antibiotic regimen.
+Patient: That's very clear. I'll follow those instructions. Thank you, Doctor.
+
+Normalized Transcription:
+good morning please describe the symptomatology youve been experiencing thank you doctor for the past three days ive had this persistent nonproductive cough its coupled with significant odynophagia a general feeling of asthenia and a mild frontal cephalalgia ive also had constant rhinorrhea and a raw pharyngeal discomfort i see and what was the temporal progression was it an insidious onset or did the symptoms present more abruptly it was quite abrupt i felt perfectly fine one day and then woke up feeling like this the next understood your presentation is consistent with a probable acute viral rhinosinusitis with possible tracheobronchitis well manage this symptomatically im advising pseudoephedrine hydrochloride which is a sympathomimetic decongestant along with dextromethorphan hydrobromide to act as an antitussive okay that makes sense for your recovery ensure you get ample bed rest and maintain high fluid intake with hypotonic solutions adhere to a brat diet and avoid potential irritants like capsaicin or excessive lipid consumption monitor your progress if the symptoms fail to resolve in the next seven to ten days or if you develop signs of a secondary bacterial infection like purulent discharge or highgrade fever you need to return at that point we may need to initiate a broadspectrum antibiotic regimen thats very clear ill follow those instructions thank you doctor
+
+Detailed Errors:
+1. Substitution: 'it’s' -> 'its'
+2. Substitution: '7' -> 'seven'
+3. Substitution: '10' -> 'ten'
+4. Deletion: 'a' -> '---'

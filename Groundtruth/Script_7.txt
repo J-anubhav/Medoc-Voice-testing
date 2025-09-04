@@ -1,0 +1,7 @@
+Doctor : You mentioned these headaches have a very specific pattern. Could you walk me through a typical episode from start to finish?
+Patient : It's awful. Before the pain starts, my vision gets strange. I see shimmering, jagged lines, sometimes a blind spot. That lasts for about 20 minutes. Then, the headache hits—it’s a severe, pulsating pain, always on the left side of my head. Any light or sound is unbearable.
+Doctor : That presentation, with the transient visual scotomas and scintillations preceding a unilateral, pulsating cephalalgia accompanied by phonophobia and photophobia, is the classic presentation of migraine with aura. Your neurological exam today is non-focal, which is reassuring. It helps us rule out more sinister causes.
+Patient : I just want them to stop. What can I do?
+Doctor : For managing the acute attacks, I'm prescribing Sumatriptan. It’s a triptan, a class of drug that is very effective at aborting a migraine. If these attacks become more frequent, we can discuss prophylactic therapy, perhaps with a medication like Topiramate. I also want you to keep a detailed headache diary to help identify potential triggers.
+Patient : Okay. A diary and Sumatriptan.
+Doctor : Yes. Let’s schedule a follow-up in six weeks to see how the abortive therapy is working for you and to review your diary.

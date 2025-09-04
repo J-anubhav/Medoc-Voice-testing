@@ -1,0 +1,17 @@
+Doctor: So, you're still having pain in that right knee after the basketball game two weeks ago.
+Doctor: Show me exactly where it hurts.
+Patient: It's right here on the inside of my knee.
+Patient: It feels like it's catching or locking when I try to bend it all the way, and the joint line is very tender to the touch.
+Doctor: Let's examine it. I'm going to perform a few maneuvers.
+Doctor: Okay, that's a positive McMurray's test, which indicates a meniscal pathology.
+Doctor: Given the location of your pain and that locking sensation, I strongly suspect you have a tear of your medial meniscus.
+Patient: A tear? Does that mean I need surgery?
+Doctor: Not necessarily, but we need to confirm the diagnosis first.
+Doctor: I'm ordering an MRI of your knee.
+Doctor: It will give us a clear image of the cartilage.
+Doctor: In the meantime, I want you on a strict RICE protocol: Rest, Ice, Compression, and Elevation.
+Doctor: You can use an NSAID like Ibuprofen for the inflammation.
+Doctor: Avoid any pivoting or high-impact activities.
+Patient: Okay, RICE protocol and an MRI.
+Doctor: Exactly.
+Doctor: Once we have the MRI results, you'll come back in and we can discuss the findings and determine the best course of action, which could range from physical therapy to an arthroscopic repair.

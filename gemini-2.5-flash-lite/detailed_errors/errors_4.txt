@@ -1,0 +1,51 @@
+File: Script_4_with_effects.wav
+WER: 12.36%
+Total Errors: 22
+
+Original Ground Truth:
+Doctor  : Hello, please have a seat. Tell me about this rash you're concerned about.
+Patient : Hi. It just appeared on my arms a few days ago. It’s very red and incredibly itchy, especially at night. It seems to be getting worse.
+Doctor  : I see. Let me have a look. It appears to be a classic case of contact dermatitis. Have you used any new soaps, lotions, or laundry detergents recently? Or perhaps been gardening?
+Patient : You know, I did switch to a new brand of laundry detergent last week. I didn't even think of that.
+Doctor  : That's very likely the culprit. This is an allergic reaction to something your skin touched. I recommend you stop using that detergent. For the rash itself, an over-the-counter one percent hydrocortisone cream, applied twice a day, should clear it up. Try to use only hypoallergenic products for a while.
+Patient : Okay, that's a relief. I'll get some of that cream today.
+Doctor  : Good. If the rash doesn't start improving within a week, or if it spreads, please give my office a call.
+
+Normalized Ground Truth:
+doctor hello please have a seat tell me about this rash youre concerned about patient hi it just appeared on my arms a few days ago it’s very red and incredibly itchy especially at night it seems to be getting worse doctor i see let me have a look it appears to be a classic case of contact dermatitis have you used any new soaps lotions or laundry detergents recently or perhaps been gardening patient you know i did switch to a new brand of laundry detergent last week i didnt even think of that doctor thats very likely the culprit this is an allergic reaction to something your skin touched i recommend you stop using that detergent for the rash itself an overthecounter one percent hydrocortisone cream applied twice a day should clear it up try to use only hypoallergenic products for a while patient okay thats a relief ill get some of that cream today doctor good if the rash doesnt start improving within a week or if it spreads please give my office a call
+
+Raw Transcription:
+Doctor: Hello, please have a seat. Tell me about this rash you're concerned about.
+Patient: Hi. It just appeared on my arms a few days ago. It's very red and incredibly itchy, especially at night. It seems to be getting worse.
+Doctor: I see. Let me have a look. It appears to be a classic case of contact dermatitis. Have you used any new soaps, lotions, or laundry detergents recently? Or perhaps been gardening?
+Patient: You know, I did switch to a new brand of laundry detergent last week. I didn't even think of that.
+Doctor: That's very likely the culprit. This is an allergic reaction to something your skin touched. I recommend you stop using that detergent. For the rash itself, and over the counter 1% hydrocortisone cream, applied twice a day, should clear it up.
+Patient: Okay. That's a relief. I'll get some of that cream today.
+Doctor: Good. If the rash doesn't start improving within a week, or if it spreads, please give my office a call.
+
+Normalized Transcription:
+hello please have a seat tell me about this rash youre concerned about hi it just appeared on my arms a few days ago its very red and incredibly itchy especially at night it seems to be getting worse i see let me have a look it appears to be a classic case of contact dermatitis have you used any new soaps lotions or laundry detergents recently or perhaps been gardening you know i did switch to a new brand of laundry detergent last week i didnt even think of that thats very likely the culprit this is an allergic reaction to something your skin touched i recommend you stop using that detergent for the rash itself and over the counter 1 hydrocortisone cream applied twice a day should clear it up okay thats a relief ill get some of that cream today good if the rash doesnt start improving within a week or if it spreads please give my office a call
+
+Detailed Errors:
+1. Deletion: 'doctor' -> '---'
+2. Deletion: 'patient' -> '---'
+3. Substitution: 'it’s' -> 'its'
+4. Deletion: 'doctor' -> '---'
+5. Deletion: 'patient' -> '---'
+6. Deletion: 'doctor' -> '---'
+7. Insertion: '---' -> 'and'
+8. Substitution: 'an' -> 'over'
+9. Substitution: 'overthecounter' -> 'the'
+10. Substitution: 'one' -> 'counter'
+11. Substitution: 'percent' -> '1'
+12. Deletion: 'try' -> '---'
+13. Deletion: 'to' -> '---'
+14. Deletion: 'use' -> '---'
+15. Deletion: 'only' -> '---'
+16. Deletion: 'hypoallergenic' -> '---'
+17. Deletion: 'products' -> '---'
+18. Deletion: 'for' -> '---'
+19. Deletion: 'a' -> '---'
+20. Deletion: 'while' -> '---'
+21. Deletion: 'patient' -> '---'
+22. Deletion: 'doctor' -> '---'

@@ -1,0 +1,15 @@
+Doctor: Good morning. Let's discuss the lower urinary tract symptoms, or LUTS, you've reported.
+
+Patient: Yes, they've become quite pronounced. I'm experiencing significant nocturia, three to four times a night. I also have urinary hesitancy, a weak stream, and a post-void sensation of incomplete bladder emptying.
+
+Doctor: I understand. Those are classic obstructive and irritative voiding symptoms. The digital rectal exam revealed a symmetrically enlarged, firm, non-nodular prostate gland, a finding highly suggestive of Benign Prostatic Hyperplasia, or BPH.
+
+Patient: So this isn't prostate cancer?
+
+Doctor: The DRE findings are not suspicious for malignancy. However, for a complete evaluation, I am ordering a serum Prostate-Specific Antigen (PSA) test. To manage your symptoms, we will start an alpha-1 adrenergic blocker, specifically Tamsulosin. This will relax the smooth muscle of the bladder neck and prostatic urethra, improving urinary flow dynamics.
+
+Patient: What if that isn't enough?
+
+Doctor: If symptoms persist, we could add a 5-alpha-reductase inhibitor like Finasteride or Dutasteride, which can reduce the actual volume of the prostate over time. I'm also going to get a post-void residual volume via bladder scan today to quantify your bladder emptying. I'd like you to reduce your fluid intake, particularly caffeine and alcohol, after 6 PM. We will follow up in six weeks to assess your response via the AUA Symptom Score and to review your PSA results.
+
+Patient: Understood. Thank you, doctor.
