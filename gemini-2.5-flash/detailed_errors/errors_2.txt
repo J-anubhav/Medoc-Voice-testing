@@ -1,0 +1,35 @@
+File: Script_2_with_effects.wav
+WER: 4.02%
+Total Errors: 7
+
+Original Ground Truth:
+Doctor : Good afternoon. Let's review your blood pressure log since you started the lisinopril. How have you been feeling overall?
+Patient: Much better, thank you. My readings at home have been consistently around 130 over 85. I do feel a bit lightheaded sometimes when I stand up too quickly, though.
+Doctor : That can be a common side effect of an ACE inhibitor as your body adjusts. Your log looks excellent; the medication is effective. We'll maintain the current dosage. I want to continue emphasizing the importance of the DASH diet—low sodium is key. Are you managing at least 30 minutes of aerobic exercise most days?
+Patient: I've been walking every morning, and I'm really watching my salt intake. It's been a big change.
+Doctor : That's the best way to support the medication. Continue monitoring your pressure at home. Let’s do a follow-up in three months. At that time, we'll also draw a basic metabolic panel to check your kidney function and electrolytes, which is standard procedure with this medication.
+Patient: Sounds like a plan. Thank you, doctor.
+
+Normalized Ground Truth:
+doctor good afternoon lets review your blood pressure log since you started the lisinopril how have you been feeling overall much better thank you my readings at home have been consistently around 130 over 85 i do feel a bit lightheaded sometimes when i stand up too quickly though doctor that can be a common side effect of an ace inhibitor as your body adjusts your log looks excellent the medication is effective well maintain the current dosage i want to continue emphasizing the importance of the dash diet—low sodium is key are you managing at least 30 minutes of aerobic exercise most days ive been walking every morning and im really watching my salt intake its been a big change doctor thats the best way to support the medication continue monitoring your pressure at home let’s do a followup in three months at that time well also draw a basic metabolic panel to check your kidney function and electrolytes which is standard procedure with this medication sounds like a plan thank you doctor
+
+Raw Transcription:
+Doctor: Good afternoon. Let's review your blood pressure log since you started the lisinopril. How have you been feeling overall?
+Patient: Much better, thank you. My readings at home have been consistently around 130 over 85. I do feel a bit lightheaded sometimes when I stand up too quickly, though.
+Doctor: That can be a common side effect of an ACE inhibitor as your body adjusts. Your log looks excellent. The lisinopril is effective. We'll maintain the current dosage.
+Doctor: I want to continue emphasizing the importance of the dash diet, low sodium is key. Are you managing at least 30 minutes of aerobic exercise most days?
+Patient: I've been walking every morning and I'm really watching my salt intake. It's been a big change.
+Doctor: That's the best way to support the medication. Continue monitoring your pressure at home. Let's do a follow-up in three months. At that time we'll also draw a basic metabolic panel to check your kidney function and electrolytes, which is standard procedure with this medication.
+Patient: Sounds like a plan. Thank you, doctor.
+
+Normalized Transcription:
+good afternoon lets review your blood pressure log since you started the lisinopril how have you been feeling overall much better thank you my readings at home have been consistently around 130 over 85 i do feel a bit lightheaded sometimes when i stand up too quickly though that can be a common side effect of an ace inhibitor as your body adjusts your log looks excellent the lisinopril is effective well maintain the current dosage i want to continue emphasizing the importance of the dash diet low sodium is key are you managing at least 30 minutes of aerobic exercise most days ive been walking every morning and im really watching my salt intake its been a big change thats the best way to support the medication continue monitoring your pressure at home lets do a followup in three months at that time well also draw a basic metabolic panel to check your kidney function and electrolytes which is standard procedure with this medication sounds like a plan thank you doctor
+
+Detailed Errors:
+1. Deletion: 'doctor' -> '---'
+2. Deletion: 'doctor' -> '---'
+3. Substitution: 'medication' -> 'lisinopril'
+4. Insertion: '---' -> 'diet'
+5. Substitution: 'diet—low' -> 'low'
+6. Deletion: 'doctor' -> '---'
+7. Substitution: 'let’s' -> 'lets'

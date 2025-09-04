@@ -1,0 +1,6 @@
+Doctor: Thank you for coming in. Please, describe the symptoms you've been experiencing in as much detail as you can.
+Patient: It's been months of chronic diarrhea, often with visible blood. I feel a constant urgency, a sort of tenesmus, and the abdominal cramping can be severe. I'm exhausted all the time.
+Doctor: I understand. The hematochezia and tenesmus are significant. Have you experienced any extra-intestinal manifestations, such as joint pain or skin lesions? Your symptoms are highly suggestive of inflammatory bowel disease. To get a definitive diagnosis and differentiate between Crohn's disease and ulcerative colitis, we need to perform a colonoscopy with biopsies. I'm also ordering serological markers, ASCA and P-ANCA, and a fecal calprotectin to assess the level of inflammation.
+Patient: That's a lot to take in. What do I do in the meantime?
+Doctor: We can manage the symptoms, but our primary goal is a diagnosis. Treatment could range from 5-ASA agents to biologics, depending on the findings. For now, keep a detailed food and symptom diary. We will schedule the colonoscopy, and you will return for a follow-up to discuss the histopathology results and establish a long-term treatment plan.
+Patient: All right, doctor, I understand.
