@@ -1,0 +1,47 @@
+File: Script_11_with_effects.wav
+WER: 4.56%
+Total Errors: 11
+
+Original Ground Truth:
+Doctor: Thank you for coming in. I know this can be a difficult step. Can you elaborate on the nature of the worry you've been experiencing?
+
+Patient: It's unremitting and pervasive. I have free-floating anxiety about my career, finances, health... I recognize it's disproportionate, but I can't attenuate the thought patterns. I also have psychomotor agitation, an inability to concentrate, and significant somatic tension in my shoulders and neck. This has been ongoing for nearly a year.
+
+Doctor: The symptomatology you describe—including excessive, uncontrollable worry across multiple domains for over six months, accompanied by somatic and cognitive symptoms—is highly consistent with the DSM-5 criteria for Generalized Anxiety Disorder (GAD).
+
+Patient: So it's a formal diagnosis? I'm not just being neurotic?
+
+Doctor: It is a well-defined and treatable neurobiological condition. The gold-standard treatment involves a dual approach of psychotherapy and pharmacotherapy. I strongly recommend Cognitive Behavioral Therapy (CBT). Concurrently, we can initiate a selective serotonin reuptake inhibitor, or SSRI. Options include Escitalopram, Sertraline, or Paroxetine. An SNRI like Venlafaxine is also a valid alternative.
+
+Patient: I'm willing to consider medication. I need to function again.
+
+Doctor: That is the therapeutic goal. We will start with a low dose of Sertraline 25mg and titrate up slowly to mitigate initial adverse effects. It's important to know that therapeutic onset can take four to six weeks. I am also providing you with a referral to a psychologist specializing in CBT. We will schedule a follow-up in four weeks to assess tolerability and initial response.
+
+Normalized Ground Truth:
+thank you for coming in i know this can be a difficult step can you elaborate on the nature of the worry youve been experiencing its unremitting and pervasive i have freefloating anxiety about my career finances health i recognize its disproportionate but i cant attenuate the thought patterns i also have psychomotor agitation an inability to concentrate and significant somatic tension in my shoulders and neck this has been ongoing for nearly a year the symptomatology you describe—including excessive uncontrollable worry across multiple domains for over six months accompanied by somatic and cognitive symptoms—is highly consistent with the dsm5 criteria for generalized anxiety disorder so its a formal diagnosis im not just being neurotic it is a welldefined and treatable neurobiological condition the goldstandard treatment involves a dual approach of psychotherapy and pharmacotherapy i strongly recommend cognitive behavioral therapy concurrently we can initiate a selective serotonin reuptake inhibitor or ssri options include escitalopram sertraline or paroxetine an snri like venlafaxine is also a valid alternative im willing to consider medication i need to function again that is the therapeutic goal we will start with a low dose of sertraline 25mg and titrate up slowly to mitigate initial adverse effects its important to know that therapeutic onset can take four to six weeks i am also providing you with a referral to a psychologist specializing in cbt we will schedule a followup in four weeks to assess tolerability and initial response
+
+Raw Transcription:
+Doctor: Thank you for coming in. I know this can be a difficult step. Can you elaborate on the nature of the worry you've been experiencing?
+Patient: It's unremitting and pervasive. I have free-floating anxiety about my career, finances, health. I recognize it's disproportionate, but I can't attenuate the thought patterns. I also have psychomotor agitation, an inability to concentrate, and significant somatic tension in my shoulders and neck. This has been ongoing for nearly a year.
+Doctor: The symptomatology you describe, including excessive uncontrollable worry across multiple domains for over six months, accompanied by somatic and cognitive symptoms, is highly consistent with the DSM-5 criteria for generalized anxiety disorder, GAD.
+Patient: So it's a formal diagnosis? I'm not just being neurotic?
+Doctor: It is a well-defined and treatable neurobiological condition. The gold standard treatment involves a dual approach of psychotherapy and pharmacotherapy. I strongly recommend cognitive behavioral therapy, CBT. Concurrently, we can initiate a selective serotonin reuptake inhibitor or SSRI. Options include escitalopram, sertraline, or paroxetine. An SNRI like venlafaxine is also a valid alternative.
+Patient: I'm willing to consider medication. I need to function again.
+Doctor: That is the therapeutic goal. We will start with a low dose of sertraline, 25 mg, and titrate up slowly to mitigate initial adverse effects. It's important to note that therapeutic onset can take four to six weeks. I am also providing you with a referral to a psychologist specializing in CBT. We will schedule a follow-up in four weeks to assess tolerability and initial response.
+
+
+Normalized Transcription:
+thank you for coming in i know this can be a difficult step can you elaborate on the nature of the worry youve been experiencing its unremitting and pervasive i have freefloating anxiety about my career finances health i recognize its disproportionate but i cant attenuate the thought patterns i also have psychomotor agitation an inability to concentrate and significant somatic tension in my shoulders and neck this has been ongoing for nearly a year the symptomatology you describe including excessive uncontrollable worry across multiple domains for over six months accompanied by somatic and cognitive symptoms is highly consistent with the dsm5 criteria for generalized anxiety disorder gad so its a formal diagnosis im not just being neurotic it is a welldefined and treatable neurobiological condition the gold standard treatment involves a dual approach of psychotherapy and pharmacotherapy i strongly recommend cognitive behavioral therapy cbt concurrently we can initiate a selective serotonin reuptake inhibitor or ssri options include escitalopram sertraline or paroxetine an snri like venlafaxine is also a valid alternative im willing to consider medication i need to function again that is the therapeutic goal we will start with a low dose of sertraline 25 mg and titrate up slowly to mitigate initial adverse effects its important to note that therapeutic onset can take four to six weeks i am also providing you with a referral to a psychologist specializing in cbt we will schedule a followup in four weeks to assess tolerability and initial response
+
+Detailed Errors:
+1. Insertion: '---' -> 'describe'
+2. Substitution: 'describe—including' -> 'including'
+3. Insertion: '---' -> 'symptoms'
+4. Substitution: 'symptoms—is' -> 'is'
+5. Insertion: '---' -> 'gad'
+6. Insertion: '---' -> 'gold'
+7. Substitution: 'goldstandard' -> 'standard'
+8. Insertion: '---' -> 'cbt'
+9. Insertion: '---' -> '25'
+10. Substitution: '25mg' -> 'mg'
+11. Substitution: 'know' -> 'note'

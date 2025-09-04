@@ -1,0 +1,45 @@
+File: Script_6_with_effects.wav
+WER: 3.29%
+Total Errors: 7
+
+Original Ground Truth:
+Doctor  : So, you're still having pain in that right knee after the basketball game two weeks ago. Show me exactly where it hurts.
+Patient : It's right here, on the inside of my knee. It feels like it's catching or locking when I try to bend it all the way, and the joint line is very tender to the touch.
+Doctor  : Let's examine it. I'm going to perform a few maneuvers. Okay, that's a positive McMurray's test, which indicates a meniscal pathology. Given the location of your pain and that locking sensation, I strongly suspect you have a tear of your medial meniscus.
+Patient : A tear? Does that mean I need surgery?
+Doctor  : Not necessarily, but we need to confirm the diagnosis first. I'm ordering an MRI of your knee. It will give us a clear image of the cartilage. In the meantime, I want you on a strict RICE protocol: Rest, Ice, Compression, and Elevation. You can use an NSAID like ibuprofen for the inflammation. Avoid any pivoting or high-impact activities.
+Patient : Okay. RICE protocol and an MRI.
+Doctor  : Exactly. Once we have the MRI results, you'll come back in, and we can discuss the findings and determine the best course of action, which could range from physical therapy to an arthroscopic repair
+
+Normalized Ground Truth:
+doctor so youre still having pain in that right knee after the basketball game two weeks ago show me exactly where it hurts patient its right here on the inside of my knee it feels like its catching or locking when i try to bend it all the way and the joint line is very tender to the touch doctor lets examine it im going to perform a few maneuvers okay thats a positive mcmurrays test which indicates a meniscal pathology given the location of your pain and that locking sensation i strongly suspect you have a tear of your medial meniscus patient a tear does that mean i need surgery doctor not necessarily but we need to confirm the diagnosis first im ordering an mri of your knee it will give us a clear image of the cartilage in the meantime i want you on a strict rice protocol rest ice compression and elevation you can use an nsaid like ibuprofen for the inflammation avoid any pivoting or highimpact activities patient okay rice protocol and an mri doctor exactly once we have the mri results youll come back in and we can discuss the findings and determine the best course of action which could range from physical therapy to an arthroscopic repair
+
+Raw Transcription:
+Doctor: So, you're still having pain in that right knee after the basketball game two weeks ago?
+Doctor: Show me exactly where it hurts.
+Patient: It's right here on the inside of my knee.
+Patient: It feels like it's catching or locking when I try to bend it all the way, and the joint line is very tender to the touch.
+Doctor: Let's examine it. I'm going to perform a few maneuvers.
+Doctor: Okay, that's a positive McMurray's test, which indicates a meniscal pathology.
+Doctor: Given the location of your pain and that locking sensation, I strongly suspect you have a tear of your medial meniscus.
+Patient: A tear? Does that mean I need surgery?
+Doctor: Not necessarily, but we need to confirm the diagnosis first.
+Doctor: I'm ordering an MRI of your knee. It will give us a clear image of the cartilage.
+Doctor: In the meantime, I want you on a strict RICE protocol: rest, ice, compression, and elevation.
+Doctor: You can use an NSAID like ibuprofen for the inflammation.
+Doctor: Avoid any pivoting or high-impact activities.
+Doctor: Okay, RICE protocol and an MRI, exactly.
+Doctor: Once we have the MRI results, you'll come back in and we can discuss the findings and determine the best course of action, which could range from physical therapy to an arthroscopic repair.
+
+
+Normalized Transcription:
+so youre still having pain in that right knee after the basketball game two weeks ago show me exactly where it hurts its right here on the inside of my knee it feels like its catching or locking when i try to bend it all the way and the joint line is very tender to the touch lets examine it im going to perform a few maneuvers okay thats a positive mcmurrays test which indicates a meniscal pathology given the location of your pain and that locking sensation i strongly suspect you have a tear of your medial meniscus a tear does that mean i need surgery not necessarily but we need to confirm the diagnosis first im ordering an mri of your knee it will give us a clear image of the cartilage in the meantime i want you on a strict rice protocol rest ice compression and elevation you can use an nsaid like ibuprofen for the inflammation avoid any pivoting or highimpact activities okay rice protocol and an mri exactly once we have the mri results youll come back in and we can discuss the findings and determine the best course of action which could range from physical therapy to an arthroscopic repair
+
+Detailed Errors:
+1. Deletion: 'doctor' -> '---'
+2. Deletion: 'patient' -> '---'
+3. Deletion: 'doctor' -> '---'
+4. Deletion: 'patient' -> '---'
+5. Deletion: 'doctor' -> '---'
+6. Deletion: 'patient' -> '---'
+7. Deletion: 'doctor' -> '---'
