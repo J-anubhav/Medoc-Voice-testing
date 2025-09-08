@@ -1,0 +1,38 @@
+File: Script_7.wav
+WER: 18.75%
+Total Errors: 9
+
+Original Ground Truth:
+Psoriasis
+Methotrexate A folate antagonist DMARD - Disease-Modifying Antirheumatic Drug, a systemic therapy
+Clobetasol Propionate A potent topical corticosteroid for psoriatic plaques
+Calcipotriol A vitamin D analogue used topically
+Cyclosporine A calcineurin inhibitor used for severe, recalcitrant psoriasis
+Apremilast An oral PDE4 inhibitor
+Secukinumab Ixekizumab Biologics, specifically Interleukin-17A inhibitors
+
+Normalized Ground Truth:
+psoriasis methotrexate a folate antagonist dmard diseasemodifying antirheumatic drug a systemic therapy clobetasol propionate a potent topical corticosteroid for psoriatic plaques calcipotriol a vitamin d analogue used topically cyclosporine a calcineurin inhibitor used for severe recalcitrant psoriasis apremilast an oral pde4 inhibitor secukinumab ixekizumab biologics specifically interleukin17a inhibitors
+
+Raw Transcription:
+Psoriasis.
+Methotrexate, a folate antagonist, DMARD, disease-modifying anti-rheumatic drug, a systemic therapy.
+Clobetasol propionate, a potent topical corticosteroid for psoriatic plaques.
+Calcipotriol, a vitamin D analog used topically.
+Cyclosporine A, calcineurin inhibitor used for severe recalcitrant psoriasis.
+Apremilast, an oral PDE4 inhibitor.
+Secukinumab, yeh pata nahi kya likha hai, biologics specifically interleukin 17A inhibitors.
+
+Normalized Transcription:
+psoriasis methotrexate a folate antagonist dmard diseasemodifying antirheumatic drug a systemic therapy clobetasol propionate a potent topical corticosteroid for psoriatic plaques calcipotriol a vitamin d analog used topically cyclosporine a calcineurin inhibitor used for severe recalcitrant psoriasis apremilast an oral pde4 inhibitor secukinumab yeh pata nahi kya likha hai biologics specifically interleukin 17a inhibitors
+
+Detailed Errors:
+1. Substitution: 'analogue' -> 'analog'
+2. Insertion: '---' -> 'yeh'
+3. Insertion: '---' -> 'pata'
+4. Insertion: '---' -> 'nahi'
+5. Insertion: '---' -> 'kya'
+6. Insertion: '---' -> 'likha'
+7. Substitution: 'ixekizumab' -> 'hai'
+8. Insertion: '---' -> 'interleukin'
+9. Substitution: 'interleukin17a' -> '17a'

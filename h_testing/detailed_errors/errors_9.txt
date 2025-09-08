@@ -1,0 +1,26 @@
+File: Script_9.wav
+WER: 10.26%
+Total Errors: 4
+
+Original Ground Truth:
+Multiple Sclerosis
+Methylprednisolone High-dose intravenous corticosteroid for treating acute relapses or demyelination events
+Interferon beta-1a 1b First-line injectable immunomodulatory therapy
+Glatiramer acetate A synthetic polypeptide immunomodulator
+Fingolimod An oral sphingosine-1-phosphate receptor modulator
+Baclofen A muscle relaxant for managing spasticity
+
+Normalized Ground Truth:
+multiple sclerosis methylprednisolone highdose intravenous corticosteroid for treating acute relapses or demyelination events interferon beta1a 1b firstline injectable immunomodulatory therapy glatiramer acetate a synthetic polypeptide immunomodulator fingolimod an oral sphingosine1phosphate receptor modulator baclofen a muscle relaxant for managing spasticity
+
+Raw Transcription:
+Multiple sclerosis. Methylprednisolone. High dose intravenous corticosteroid for treating acute relapses or demyelination events. Interferon beta-1a/1b. First-line injectable immunomodulatory therapy. Glatiramer acetate, a synthetic polypeptide immunomodulator. Fingolimod, an oral sphingosine-1-phosphate receptor modulator. Baclofen, a muscle relaxant for managing spasticity.
+
+Normalized Transcription:
+multiple sclerosis methylprednisolone high dose intravenous corticosteroid for treating acute relapses or demyelination events interferon beta1a1b firstline injectable immunomodulatory therapy glatiramer acetate a synthetic polypeptide immunomodulator fingolimod an oral sphingosine1phosphate receptor modulator baclofen a muscle relaxant for managing spasticity
+
+Detailed Errors:
+1. Insertion: '---' -> 'high'
+2. Substitution: 'highdose' -> 'dose'
+3. Deletion: 'beta1a' -> '---'
+4. Substitution: '1b' -> 'beta1a1b'

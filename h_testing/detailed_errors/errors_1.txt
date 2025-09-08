@@ -1,0 +1,61 @@
+File: Script_1.wav
+WER: 16.35%
+Total Errors: 17
+
+Original Ground Truth:
+Type II Diabetes
+Metformin First-line biguanide therapy, reduces hepatic gluconeogenesis
+Glimepiride A sulfonylurea, increases insulin secretion from pancreatic beta-cells
+Sitagliptin Vildagliptin DPP-4 inhibitors, prolong incretin action
+Dapagliflozin Empagliflozin SGLT2 inhibitors, promote glycosuria
+Pioglitazone A thiazolidinedione, improves insulin sensitivity
+Semaglutide Liraglutide Injectable GLP-1 receptor agonists for glycemic control
+Insulin Aspart Glargine Rapid-acting and long-acting insulin analogues
+Depression
+Escitalopram Sertraline SSRIs Selective Serotonin Reuptake Inhibitors, first-line for Major Depressive Disorder
+Venlafaxine Duloxetine SNRIs  Serotonin-Norepinephrine Reuptake Inhibitors
+Amitriptyline Imipramine TCAS  Tricyclic Antidepressants, used for neuropathic pain as well
+Mirtazapine Atypical antidepressant useful in depression with insomnia
+Olanzapine Atypical antipsychotic often used as an adjunct in treatment-resistant depression
+
+Normalized Ground Truth:
+type ii diabetes metformin firstline biguanide therapy reduces hepatic gluconeogenesis glimepiride a sulfonylurea increases insulin secretion from pancreatic betacells sitagliptin vildagliptin dpp4 inhibitors prolong incretin action dapagliflozin empagliflozin sglt2 inhibitors promote glycosuria pioglitazone a thiazolidinedione improves insulin sensitivity semaglutide liraglutide injectable glp1 receptor agonists for glycemic control insulin aspart glargine rapidacting and longacting insulin analogues depression escitalopram sertraline ssris selective serotonin reuptake inhibitors firstline for major depressive disorder venlafaxine duloxetine snris serotoninnorepinephrine reuptake inhibitors amitriptyline imipramine tcas tricyclic antidepressants used for neuropathic pain as well mirtazapine atypical antidepressant useful in depression with insomnia olanzapine atypical antipsychotic often used as an adjunct in treatmentresistant depression
+
+Raw Transcription:
+Type 2 diabetes.
+Metformin, first-line biguanide therapy, reduces hepatic gluconeogenesis.
+Glimiperide, a sulfonylurea, increases insulin secretion from pancreatic beta cells.
+Sitagliptin and vildagliptin, DPP-4 inhibitors, prolong incretin action.
+Dapagliflozin and empagliflozin, SGLT2 inhibitors, promote glycosuria.
+Pioglitazone, a thiazolidinedione, improves insulin sensitivity.
+Semaglutide and liraglutide, injectable GLP-1 receptor agonists for glycemic control.
+Insulin aspart, glargine, rapid-acting and long-acting insulin analogs.
+
+Depression.
+Escitalopram and sertraline, selective serotonin reuptake inhibitors, first-line for major depressive disorder.
+Venlafaxine and duloxetine, serotonin nor-epinephrine reuptake inhibitors.
+Amitriptyline, imipramine, tricyclic antidepressants used for neuropathic pain as well.
+Mirtazapine, atypical antidepressant useful in depression with insomnia.
+Olanzapine, atypical antipsychotic often used as adjunct in treatment resistant depression.
+
+Normalized Transcription:
+type 2 diabetes metformin firstline biguanide therapy reduces hepatic gluconeogenesis glimiperide a sulfonylurea increases insulin secretion from pancreatic beta cells sitagliptin and vildagliptin dpp4 inhibitors prolong incretin action dapagliflozin and empagliflozin sglt2 inhibitors promote glycosuria pioglitazone a thiazolidinedione improves insulin sensitivity semaglutide and liraglutide injectable glp1 receptor agonists for glycemic control insulin aspart glargine rapidacting and longacting insulin analogs depression escitalopram and sertraline selective serotonin reuptake inhibitors firstline for major depressive disorder venlafaxine and duloxetine serotonin norepinephrine reuptake inhibitors amitriptyline imipramine tricyclic antidepressants used for neuropathic pain as well mirtazapine atypical antidepressant useful in depression with insomnia olanzapine atypical antipsychotic often used as adjunct in treatment resistant depression
+
+Detailed Errors:
+1. Substitution: 'ii' -> '2'
+2. Substitution: 'glimepiride' -> 'glimiperide'
+3. Insertion: '---' -> 'beta'
+4. Substitution: 'betacells' -> 'cells'
+5. Insertion: '---' -> 'and'
+6. Insertion: '---' -> 'and'
+7. Insertion: '---' -> 'and'
+8. Substitution: 'analogues' -> 'analogs'
+9. Substitution: 'sertraline' -> 'and'
+10. Substitution: 'ssris' -> 'sertraline'
+11. Insertion: '---' -> 'and'
+12. Substitution: 'snris' -> 'serotonin'
+13. Substitution: 'serotoninnorepinephrine' -> 'norepinephrine'
+14. Deletion: 'tcas' -> '---'
+15. Deletion: 'an' -> '---'
+16. Insertion: '---' -> 'treatment'
+17. Substitution: 'treatmentresistant' -> 'resistant'

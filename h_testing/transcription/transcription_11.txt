@@ -1,0 +1,8 @@
+DOCTOR: Bipolar disorder.
+DOCTOR: Lithium carbonate, a classic mood stabilizer, the gold standard for mania prophylaxis.
+DOCTOR: Divalproex sodium, sodium valproate, anticonvulsant mood stabilizer, effective for acute mania.
+DOCTOR: Carbamazepine, an anticonvulsant also used as a mood stabilizer.
+DOCTOR: Olanzapine.
+DOCTOR: Risperidone.
+DOCTOR: Atypical antipsychotic for managing acute mania and psychosis.
+DOCTOR: Lamotrigine, an anticonvulsant primarily used for bipolar depression prophylaxis.

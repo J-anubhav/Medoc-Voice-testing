@@ -1,0 +1,37 @@
+File: Script_3.wav
+WER: 4.30%
+Total Errors: 4
+
+Original Ground Truth:
+Migraine
+
+Sumatriptan Rizatriptan Triptans, serotonin 5-HT1B 1D receptor agonists for abortive therapy
+Naproxen Diclofenac NSAIDs - Nonsteroidal Anti-inflammatory Drugs for acute attacks
+Propranolol A beta-blocker used for prophylactic therapy
+Amitriptyline A tricyclic antidepressant used for migraine prophylaxis
+Topiramate An anticonvulsant also used for prevention
+Domperidone An antiemetic to manage migraine-associated nausea
+
+Ulcerative Colitis 
+
+Mesalamine Sulfasalazine Aminosalicylates or 5-ASA drugs, for inducing and 
+maintaining remission
+Prednisolone  Budesonide Corticosteroids for managing acute flares of 
+Inflammatory Bowel Disease
+Azathioprine An immunomodulator or thiopurine, used as a steroid-sparing agent 
+Infliximab Adalimumab Anti-TNF biologics for moderate to severe disease
+
+Normalized Ground Truth:
+migraine sumatriptan rizatriptan triptans serotonin 5ht1b 1d receptor agonists for abortive therapy naproxen diclofenac nsaids nonsteroidal antiinflammatory drugs for acute attacks propranolol a betablocker used for prophylactic therapy amitriptyline a tricyclic antidepressant used for migraine prophylaxis topiramate an anticonvulsant also used for prevention domperidone an antiemetic to manage migraineassociated nausea ulcerative colitis mesalamine sulfasalazine aminosalicylates or 5asa drugs for inducing and maintaining remission prednisolone budesonide corticosteroids for managing acute flares of inflammatory bowel disease azathioprine an immunomodulator or thiopurine used as a steroidsparing agent infliximab adalimumab antitnf biologics for moderate to severe disease
+
+Raw Transcription:
+DOCTOR: Migraine. Sumatriptan, Rizatriptan, Triptans, Serotonin 5HT1B, 1D receptor agonist for abortive therapy. Naproxen, Diclofenac, NSAIDs, non-steroidal anti-inflammatory drugs for acute attacks. Propranolol, a beta blocker used for prophylactic therapy. Amitriptyline, a tricyclic antidepressant used for migraine prophylaxis. Topiramate, an anticonvulsant, also used for prevention. Domperidone, an antiemetic to manage migraine-associated nausea. Ulcerative colitis. Mesalamine and Sulfasalazine, aminosalicylates or 5-ASA drugs for inducing and maintaining remission. Prednisolone, Budesonide, corticosteroids for managing acute flares of inflammatory bowel disease. Azathioprine, an immunomodulator, or thiopurine, used as a steroid-sparing agent. Infliximab, Adalimumab, anti-TNF biologics for moderate to severe disease.
+
+Normalized Transcription:
+migraine sumatriptan rizatriptan triptans serotonin 5ht1b 1d receptor agonist for abortive therapy naproxen diclofenac nsaids nonsteroidal antiinflammatory drugs for acute attacks propranolol a beta blocker used for prophylactic therapy amitriptyline a tricyclic antidepressant used for migraine prophylaxis topiramate an anticonvulsant also used for prevention domperidone an antiemetic to manage migraineassociated nausea ulcerative colitis mesalamine and sulfasalazine aminosalicylates or 5asa drugs for inducing and maintaining remission prednisolone budesonide corticosteroids for managing acute flares of inflammatory bowel disease azathioprine an immunomodulator or thiopurine used as a steroidsparing agent infliximab adalimumab antitnf biologics for moderate to severe disease
+
+Detailed Errors:
+1. Substitution: 'agonists' -> 'agonist'
+2. Insertion: '---' -> 'beta'
+3. Substitution: 'betablocker' -> 'blocker'
+4. Insertion: '---' -> 'and'

@@ -1,0 +1,26 @@
+File: Script_4.wav
+WER: 7.55%
+Total Errors: 4
+
+Original Ground Truth:
+Bipolar Disorder
+Lithium Carbonate A classic mood stabilizer, the gold standard for mania prophylaxis
+Divalproex Sodium Sodium Valproate Anticonvulsant mood stabilizers, effective for acute mania
+Carbamazepine An anticonvulsant also used as a mood stabilizer
+Olanzapine Risperidone Atypical antipsychotics for managing acute mania and psychosis
+Lamotrigine An anticonvulsant, primarily used for bipolar depression prophylaxis
+
+Normalized Ground Truth:
+bipolar disorder lithium carbonate a classic mood stabilizer the gold standard for mania prophylaxis divalproex sodium sodium valproate anticonvulsant mood stabilizers effective for acute mania carbamazepine an anticonvulsant also used as a mood stabilizer olanzapine risperidone atypical antipsychotics for managing acute mania and psychosis lamotrigine an anticonvulsant primarily used for bipolar depression prophylaxis
+
+Raw Transcription:
+DOCTOR: Bipolar disorder. Lithium carbonate, a classic mood stabilizer, the gold standard for mania prophylaxis. Divalproex sodium slash sodium valproate. Anticonvulsive mood stabilizers, effective for acute mania. Carbamazepine, an anticonvulsant also used as mood stabilizer. Olanzapine slash Risperidone. Atypical antipsychotics for managing acute mania and psychosis. Lamotrigine, an anticonvulsant primarily used for bipolar depression prophylaxis.
+
+Normalized Transcription:
+bipolar disorder lithium carbonate a classic mood stabilizer the gold standard for mania prophylaxis divalproex sodium slash sodium valproate anticonvulsive mood stabilizers effective for acute mania carbamazepine an anticonvulsant also used as mood stabilizer olanzapine slash risperidone atypical antipsychotics for managing acute mania and psychosis lamotrigine an anticonvulsant primarily used for bipolar depression prophylaxis
+
+Detailed Errors:
+1. Insertion: '---' -> 'slash'
+2. Substitution: 'anticonvulsant' -> 'anticonvulsive'
+3. Deletion: 'a' -> '---'
+4. Insertion: '---' -> 'slash'

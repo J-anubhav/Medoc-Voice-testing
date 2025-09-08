@@ -1,0 +1,10 @@
+DOCTOR: Ulcerative colitis.
+DOCTOR: Mesalamine, sulfasalazine,
+DOCTOR: aminosalicylates or 5-ASA drugs for inducing and maintaining remission.
+DOCTOR: Prednisolone, budesonide,
+DOCTOR: corticosteroid for managing acute flares of
+DOCTOR: inflammatory bowel
+DOCTOR: disease.
+DOCTOR: Azathioprine, an immunomodulator or thiopurine used as a steroid-sparing agent.
+DOCTOR: Infliximab, adalimumab,
+DOCTOR: anti-TNF biologics for moderate to severe disease.

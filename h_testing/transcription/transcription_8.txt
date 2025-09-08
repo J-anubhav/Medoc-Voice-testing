@@ -1,0 +1,11 @@
+DOCTOR: Depression.
+DOCTOR: Escitalopram, Sertraline, SSRIs, selective serotonin reuptake inhibitors.
+DOCTOR: First line for major depressive disorder.
+DOCTOR: Venlafaxine, or Duloxetine.
+DOCTOR: SNRIs, serotonin norepinephrine reuptake inhibitors.
+DOCTOR: Amitriptyline.
+DOCTOR: Imipramine, TCAs, tricyclic antidepressant, used for neuropathic pain as well.
+DOCTOR: Mirtazapine.
+DOCTOR: Atypical antidepressant, useful in depression with insomnia.
+DOCTOR: Olanzapine.
+DOCTOR: Atypical antipsychotic, often used as an adjunct in treatment resistant depression.

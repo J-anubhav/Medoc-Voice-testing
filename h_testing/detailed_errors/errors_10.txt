@@ -1,0 +1,21 @@
+File: Script_10.wav
+WER: 3.03%
+Total Errors: 1
+
+Original Ground Truth:
+Weight Loss
+Orlistat A pancreatic lipase inhibitor, reduces dietary fat absorption
+Metformin Often used off-label for weight management in patients with insulin resistance
+• Liraglutide A GLP-1 receptor agonist approved for obesity management
+
+Normalized Ground Truth:
+weight loss orlistat a pancreatic lipase inhibitor reduces dietary fat absorption metformin often used offlabel for weight management in patients with insulin resistance • liraglutide a glp1 receptor agonist approved for obesity management
+
+Raw Transcription:
+Weight loss. Orlistat, a pancreatic lipase inhibitor, reduces dietary fat absorption. Metformin, often used off-label for weight management in patients with insulin resistance. Liraglutide, a GLP-1 receptor agonist, approved for obesity management.
+
+Normalized Transcription:
+weight loss orlistat a pancreatic lipase inhibitor reduces dietary fat absorption metformin often used offlabel for weight management in patients with insulin resistance liraglutide a glp1 receptor agonist approved for obesity management
+
+Detailed Errors:
+1. Deletion: '•' -> '---'

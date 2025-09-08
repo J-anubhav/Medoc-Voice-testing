@@ -1,0 +1,14 @@
+Type II Diabetes
+Metformin First-line biguanide therapy, reduces hepatic gluconeogenesis
+Glimepiride A sulfonylurea, increases insulin secretion from pancreatic beta-cells
+Sitagliptin Vildagliptin DPP-4 inhibitors, prolong incretin action
+Dapagliflozin Empagliflozin SGLT2 inhibitors, promote glycosuria
+Pioglitazone A thiazolidinedione, improves insulin sensitivity
+Semaglutide Liraglutide Injectable GLP-1 receptor agonists for glycemic control
+Insulin Aspart Glargine Rapid-acting and long-acting insulin analogues
+Depression
+Escitalopram Sertraline SSRIs Selective Serotonin Reuptake Inhibitors, first-line for Major Depressive Disorder
+Venlafaxine Duloxetine SNRIs  Serotonin-Norepinephrine Reuptake Inhibitors
+Amitriptyline Imipramine TCAS  Tricyclic Antidepressants, used for neuropathic pain as well
+Mirtazapine Atypical antidepressant useful in depression with insomnia
+Olanzapine Atypical antipsychotic often used as an adjunct in treatment-resistant depression

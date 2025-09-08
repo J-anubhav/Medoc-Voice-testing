@@ -1,0 +1,31 @@
+File: Script_11.wav
+WER: 3.77%
+Total Errors: 2
+
+Original Ground Truth:
+Bipolar Disorder
+Lithium Carbonate A classic mood stabilizer, the gold standard for mania prophylaxis
+Divalproex Sodium Sodium Valproate Anticonvulsant mood stabilizers, effective for acute mania
+Carbamazepine An anticonvulsant also used as a mood stabilizer
+Olanzapine Risperidone Atypical antipsychotics for managing acute mania and psychosis
+Lamotrigine An anticonvulsant, primarily used for bipolar depression prophylaxis
+
+Normalized Ground Truth:
+bipolar disorder lithium carbonate a classic mood stabilizer the gold standard for mania prophylaxis divalproex sodium sodium valproate anticonvulsant mood stabilizers effective for acute mania carbamazepine an anticonvulsant also used as a mood stabilizer olanzapine risperidone atypical antipsychotics for managing acute mania and psychosis lamotrigine an anticonvulsant primarily used for bipolar depression prophylaxis
+
+Raw Transcription:
+DOCTOR: Bipolar disorder.
+DOCTOR: Lithium carbonate, a classic mood stabilizer, the gold standard for mania prophylaxis.
+DOCTOR: Divalproex sodium, sodium valproate, anticonvulsant mood stabilizer, effective for acute mania.
+DOCTOR: Carbamazepine, an anticonvulsant also used as a mood stabilizer.
+DOCTOR: Olanzapine.
+DOCTOR: Risperidone.
+DOCTOR: Atypical antipsychotic for managing acute mania and psychosis.
+DOCTOR: Lamotrigine, an anticonvulsant primarily used for bipolar depression prophylaxis.
+
+Normalized Transcription:
+bipolar disorder lithium carbonate a classic mood stabilizer the gold standard for mania prophylaxis divalproex sodium sodium valproate anticonvulsant mood stabilizer effective for acute mania carbamazepine an anticonvulsant also used as a mood stabilizer olanzapine risperidone atypical antipsychotic for managing acute mania and psychosis lamotrigine an anticonvulsant primarily used for bipolar depression prophylaxis
+
+Detailed Errors:
+1. Substitution: 'stabilizers' -> 'stabilizer'
+2. Substitution: 'antipsychotics' -> 'antipsychotic'

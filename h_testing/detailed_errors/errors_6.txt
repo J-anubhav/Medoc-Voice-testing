@@ -1,0 +1,35 @@
+File: Script_6.wav
+WER: 7.14%
+Total Errors: 3
+
+Original Ground Truth:
+Ulcerative Colitis 
+Mesalamine SulfasalazineAminosalicylates or 5-ASA drugs, for inducing and 
+maintaining remission
+Prednisolone  Budesonide Corticosteroids for managing acute flares of 
+Inflammatory Bowel Disease 
+Azathioprine An immunomodulator or thiopurine, used as a steroid-sparing agent 
+Infliximab  Adalimumab Anti-TNF biologics for moderate to severe disease
+
+Normalized Ground Truth:
+ulcerative colitis mesalamine sulfasalazineaminosalicylates or 5asa drugs for inducing and maintaining remission prednisolone budesonide corticosteroids for managing acute flares of inflammatory bowel disease azathioprine an immunomodulator or thiopurine used as a steroidsparing agent infliximab adalimumab antitnf biologics for moderate to severe disease
+
+Raw Transcription:
+DOCTOR: Ulcerative colitis.
+DOCTOR: Mesalamine, sulfasalazine,
+DOCTOR: aminosalicylates or 5-ASA drugs for inducing and maintaining remission.
+DOCTOR: Prednisolone, budesonide,
+DOCTOR: corticosteroid for managing acute flares of
+DOCTOR: inflammatory bowel
+DOCTOR: disease.
+DOCTOR: Azathioprine, an immunomodulator or thiopurine used as a steroid-sparing agent.
+DOCTOR: Infliximab, adalimumab,
+DOCTOR: anti-TNF biologics for moderate to severe disease.
+
+Normalized Transcription:
+ulcerative colitis mesalamine sulfasalazine aminosalicylates or 5asa drugs for inducing and maintaining remission prednisolone budesonide corticosteroid for managing acute flares of inflammatory bowel disease azathioprine an immunomodulator or thiopurine used as a steroidsparing agent infliximab adalimumab antitnf biologics for moderate to severe disease
+
+Detailed Errors:
+1. Insertion: '---' -> 'sulfasalazine'
+2. Substitution: 'sulfasalazineaminosalicylates' -> 'aminosalicylates'
+3. Substitution: 'corticosteroids' -> 'corticosteroid'
